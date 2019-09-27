@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gardener</string>
+    <string name="buzzer"> Code-G mobile dev unit</string>
+    <string name="temptxt">Temperature</string>
+    <string name="humiditytxt">Humidity</string>
+    <string name="soil_moisturetxt">Soil Moisture</string>
+    <string name="advert"> Code-G mobile dev unit©</string>
+</resources>

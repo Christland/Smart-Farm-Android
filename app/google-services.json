@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931057027767",
+    "firebase_url": "https://green-house-e941d.firebaseio.com",
+    "project_id": "green-house-e941d",
+    "storage_bucket": "green-house-e941d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931057027767:android:169a73a95c4bf1e8",
+        "android_client_info": {
+          "package_name": "com.example.juana.smartfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931057027767-878cldcbv8jcr4s03ee1c85r0he54phf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juana.smartfarm",
+            "certificate_hash": "a25f58182d3fb69b719abdac2d83b1287f38c50e"
+          }
+        },
+        {
+          "client_id": "931057027767-2hf926q9kei7crujrfdtnmm78n6s4agg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2s6ZvqE875r6nsW3aY2q06Xsgf-e0qY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931057027767-2hf926q9kei7crujrfdtnmm78n6s4agg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
